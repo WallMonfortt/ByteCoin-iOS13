@@ -8,6 +8,7 @@
 import Foundation
 
 struct CoinData: Decodable {
-    let time: String
+    
+    
     let rate: Double
 }

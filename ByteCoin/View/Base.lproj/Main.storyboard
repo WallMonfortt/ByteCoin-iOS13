@@ -98,8 +98,8 @@
                         </constraints>
                     </view>
                     <connections>
-                        <outlet property="bitcoinLabel" destination="N2a-Ax-iRV" id="tx7-1r-PmT"/>
-                        <outlet property="currencyLabel" destination="N2a-Ax-iRV" id="AbC-gi-OCK"/>
+                        <outlet property="bitCoinLabel" destination="N2a-Ax-iRV" id="410-gM-YGr"/>
+                        <outlet property="currencyLabel" destination="MAn-y0-nXv" id="B0W-yP-fpW"/>
                         <outlet property="currencyPcker" destination="ct2-jk-pgH" id="cNF-Ai-Svs"/>
                     </connections>
                 </viewController>
@@ -120,7 +120,7 @@
             <color red="0.18799999356269836" green="0.20800000429153442" blue="0.28600001335144043" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
         <systemColor name="tertiaryLabelColor">
-            <color red="0.23529411764705882" green="0.23529411764705882" blue="0.2627450980392157" alpha="0.29803921568627451" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.23529411759999999" green="0.23529411759999999" blue="0.26274509800000001" alpha="0.29803921570000003" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
